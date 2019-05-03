@@ -1,0 +1,13 @@
+We read your research paper to get a wider conception of the whole algorithm and all the information you have provided for us though research.
+Site:
+Grochow , Joshua A, and Manolis Kellis. Network Motif Discovery Using Subgraph Enumeration and Symmetry-Breaking.
+
+
+While reading upon the article “Network Motifs: Simple Building Blocks of Complex Networks” we furthered our understanding of complexity of network motifs and connectivity of networks.  
+Site:
+Milo, R., et al. “Network Motifs: Simple Building Blocks of Complex Networks.” Science, American Association for the Advancement of Science, 25 Oct. 2002, science.sciencemag.org/content/298/5594/824.
+
+
+We needed to understand on how to apply isomorphism into a sequence of created subgraphs of a given network to reduce counts of a similar graph.
+Site:
+Milo, R., et al. “Network Motifs: Simple Building Blocks of Complex Networks.” Science, American Association for the Advancement of Science, 25 Oct. 2002, science.sciencemag.org/content/298/5594/824.
